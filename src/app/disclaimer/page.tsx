@@ -13,6 +13,8 @@ export const metadata: Metadata = {
   alternates: { canonical: '/disclaimer/' },
 };
 
+
+
 export default function DisclaimerPage() {
   const page = pages.disclaimer;
   return (
